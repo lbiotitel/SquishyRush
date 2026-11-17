@@ -1,0 +1,4 @@
+iniroot = true
+
+[*.{cs,txt,json,xml}]
+charset = utf-8

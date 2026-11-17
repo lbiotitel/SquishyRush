@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Unit
+  - DamageText
+  - VFX
+  - SellZone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2762777563
+    locked: 0
+  - name: Unit
+    uniqueID: 2028511743
+    locked: 0
+  - name: Environment
+    uniqueID: 1197342697
+    locked: 0
+  - name: UI_World
+    uniqueID: 2730419415
+    locked: 0
+  - name: UI
+    uniqueID: 3362989789
+    locked: 0
+  - name: SellZone
+    uniqueID: 123946127
+    locked: 0
+  - name: Drag
+    uniqueID: 22576929
+    locked: 0
